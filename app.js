@@ -109,7 +109,7 @@ start(() => {
             } catch(e) {
                 readError = true;
                 console.log(chalk.red(`  Error reading ${file}`));
-                console.error(e.messages);
+                console.error(e.message);
             } 
         }
     });

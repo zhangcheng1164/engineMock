@@ -1,0 +1,177 @@
+{
+  "userInfo_admin": {
+    "user_name": "admin",
+    "user_id": "21995007-5ed9-42cd-958f-05cd6705a270",
+    "access": [
+      "super_admin",
+      "admin"
+    ],
+    "avator": "https://file.iviewui.com/dist/a0e88e83800f138b94d2414621bd9704.png"
+  },
+  "userInfo_": {
+    "user_name": "user",
+    "user_id": "21995107-5ed9-42cd-958f-05cd6705a270",
+    "access": [
+      "user"
+    ],
+    "avator": "http://img3.duitang.com/uploads/item/201409/25/20140925100559_RviGZ.jpeg"
+  },
+  "userInfo_user": {
+    "user_name": "user",
+    "user_id": "21995107-5ed9-42cd-958f-05cd6705a270",
+    "access": [
+      "user"
+    ],
+    "avator": "http://img5.duitang.com/uploads/item/201611/13/20161113110506_ScT45.thumb.700_0.jpeg"
+  },
+  "pieData": [
+    {
+      "value": 10,
+      "name": "邮件营销"
+    },
+    {
+      "value": 234,
+      "name": "联盟广告"
+    },
+    {
+      "value": 135,
+      "name": "视频广告"
+    },
+    {
+      "value": 154,
+      "name": "搜索引擎"
+    }
+  ],
+  "barData": {
+    "Mon": 13253,
+    "Tue": 34235,
+    "Wed": 26321,
+    "Thu": 12340,
+    "Fri": 24643,
+    "Sat": 1322,
+    "Sun": 1324
+  },
+  "person": {
+    "name": "zhangsan",
+    "age": 11
+  },
+  "resourceStatistics": [
+    {
+      "id": "15e52c8c-ce34-4a22-9603-3b24dd8bc8e3",
+      "host": {
+        "onlines": 3,
+        "offlines": 1
+      },
+      "vm": {
+        "onlines": 11,
+        "offlines": 22
+      },
+      "disk": {
+        "hdds": 90,
+        "ssds": 43
+      },
+      "event": {
+        "normal": 10,
+        "warning": 12,
+        "alert": 7
+      },
+      "user": {
+        "onlines": 1,
+        "offlines": 90
+      }
+    },
+    {
+      "id": "e05c978b-b105-4a91-9e5f-0dbd7f6b068e",
+      "host": {
+        "onlines": 30,
+        "offlines": 11
+      },
+      "vm": {
+        "onlines": 11,
+        "offlines": 22
+      },
+      "disk": {
+        "hdds": 90,
+        "ssds": 43
+      },
+      "event": {
+        "normal": 10,
+        "warning": 12,
+        "alert": 7
+      },
+      "user": {
+        "onlines": 111,
+        "offlines": 90
+      }
+    }
+  ],
+  "vms": [
+    {
+      "status": "up",
+      "name": "vm01",
+      "hostId": "dc649055-b768-4cf8-9f80-754c9f231e2c",
+      "clustername": "cluster01",
+      "ip": "1.1.1.1",
+      "id": "fc331758-c4c2-434b-8000-765634df1677"
+    },
+    {
+      "status": "down",
+      "name": "vm02",
+      "clustername": "cluster01",
+      "hostId": "dc649055-b768-4cf8-9f80-754c9f231e2c",
+      "ip": "1.1.1.11",
+      "id": "46e024d2-1258-4db3-9be6-7fe3ec79bfc5"
+    },
+    {
+      "status": "up",
+      "name": "vm03",
+      "hostId": "dc649055-b768-4cf8-9f80-754c9f231e2c",
+      "clustername": "cluster01",
+      "ip": "1.1.1.1",
+      "id": "c89e1b81-636d-415e-a384-5a01e0bdfd12"
+    },
+    {
+      "status": "up",
+      "name": "vm04",
+      "hostId": "dc649055-b768-4cf8-9f80-754c9f231e2c",
+      "clustername": "cluster01",
+      "ip": "1.1.1.1",
+      "id": "c39c684f-05b8-48bb-a6ff-26e6004e501d"
+    },
+    {
+      "status": "up",
+      "name": "vm05",
+      "hostId": "dc649055-b768-4cf8-9f80-754c9f231e2c",
+      "clustername": "cluster01",
+      "ip": "1.1.1.1",
+      "id": "c218476e-4b0e-476f-a6b4-6a61d562d9ae"
+    }
+  ],
+  "hosts": [
+    {
+        "status": "up",
+        "name": "host01",
+        "id": "dc649055-b768-4cf8-9f80-754c9f231e2c",
+        "comment": "haha",
+        "ip": "2.2.2.2"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
