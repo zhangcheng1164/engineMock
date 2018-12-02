@@ -3,7 +3,6 @@ const jws = require('jws');
 class JWTUtil {
   static createJWT() {
     const payload = {
-      // iss: 'Masscloud',
       exp: Math.round(new Date().getTime()) + 60 * 30 * 1000, // 过期时间为30分钟
     };
 
