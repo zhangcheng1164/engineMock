@@ -66,6 +66,7 @@ function start(cb) {
     });
 
 
+    //自定义路由
     app.post('/vms/:id/start', (req, res) => {
         const vmId = req.params.id;
         setTimeout(() => {
@@ -77,6 +78,7 @@ function start(cb) {
 
         res.jsonp({result: 'ok'});
     });
+
 
     app.use(router);
     server =  app.listen(3000, '0.0.0.0', () => {
