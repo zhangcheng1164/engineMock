@@ -1,2 +1,2 @@
 # engineMock
-simple web mock based on json-server,supporting mutiple files hot reload and auth validate
+# simple web mock server based on json-server, supporting mutiple files hot reload and basic auth validation with JWT
