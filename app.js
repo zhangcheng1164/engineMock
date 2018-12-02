@@ -43,7 +43,7 @@ function start(cb) {
     app.use(jsonServer.bodyParser);
     app.use(authMiddle);
 
-    server.use(jsonServer.rewriter({
+    app.use(jsonServer.rewriter({
       '/api/*': '/$1',
     }));
 
